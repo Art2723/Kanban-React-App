@@ -2,10 +2,16 @@
 
 ## Install
 
+```
 git clone 
+
 npm install
+
+```
 
 ## Run
 
+```
 npm start
 
+```
